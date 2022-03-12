@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/BuildingImmunity.unity
+    path: Assets/Scenes/BuildingImmunity.unity
     guid: d743f62185dbc4d13b3dd5c051f17016
   m_configObjects: {}
